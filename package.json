@@ -1,17 +1,17 @@
 {
   "private": false,
-  "name": "homebridge-gsh",
-  "displayName": "Homebridge Google Smart Home",
-  "version": "2.2.0",
-  "description": "Google Smart Home",
+  "name": "homebridge-gh",
+  "displayName": "Homebridge Google Home",
+  "version": "2.2.1",
+  "description": "Google Home",
   "license": "GPL-3.0",
-  "author": "oznu <dev@oz.nu>",
+  "author": "oriolclosa",
   "repository": {
     "type": "git",
-    "url": "git://github.com/oznu/homebridge-gsh.git"
+    "url": "git://github.com/oriolclosa/homebridge-gh.git"
   },
   "bugs": {
-    "url": "https://github.com/oznu/homebridge-gsh/issues"
+    "url": "https://github.com/oriolclosa/homebridge-gh/issues"
   },
   "main": "dist/index.js",
   "scripts": {
